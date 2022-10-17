@@ -1,6 +1,6 @@
 //sound instance variables
 let song, amplitude, frequency;
-let songTitle = "AZUD.mp3";
+let songTitle = "../assets/AZUD.mp3";
 //button instance variables
 let resume, pause;
 //color instance variables
